@@ -3,3 +3,7 @@ h1 {
     font-family: Monospaced, Gargi;
     font-size: 35px;
 }
+
+body {
+    background: lightyellow;
+}
